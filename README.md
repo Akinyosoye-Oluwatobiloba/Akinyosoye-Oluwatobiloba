@@ -14,9 +14,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akinyosoye-Oluwatobiloba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinyosoyegodwin555@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Akinyosoye-Oluwatobiloba&color=0A84FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
